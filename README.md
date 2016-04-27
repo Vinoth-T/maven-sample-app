@@ -10,3 +10,4 @@
 - Run APP: `$ mvn tomcat:run`
   
 - Test
+samplelog text
