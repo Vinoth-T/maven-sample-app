@@ -11,3 +11,4 @@
   
 - Test
 samplelog text
+test stash3
