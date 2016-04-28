@@ -1,0 +1,21 @@
+From 2e960991d2243d9c4c8eac40a6864ec9f63c724d Mon Sep 17 00:00:00 2001
+From: ctsc0248_Global_VinothT <mail2tvster@gmail.com>
+Date: Tue, 26 Apr 2016 22:30:50 -0700
+Subject: [PATCH] updated README from master
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index efcf7d8..922dce4 100644
+--- a/README.md
++++ b/README.md
+@@ -10,3 +10,4 @@
+ - Run APP: `$ mvn tomcat:run`
+   
+ - Test
++samplelog text
+-- 
+2.8.1.windows.1
+

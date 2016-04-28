@@ -1,0 +1,22 @@
+From f6cf0d42754fc7f15882f73485e3b1170634782d Mon Sep 17 00:00:00 2001
+From: ctsc0248_Global_VinothT <mail2tvster@gmail.com>
+Date: Tue, 26 Apr 2016 21:18:04 -0700
+Subject: [PATCH 1/2] test fork
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 1a133f6..efcf7d8 100644
+--- a/README.md
++++ b/README.md
+@@ -9,4 +9,4 @@
+ 
+ - Run APP: `$ mvn tomcat:run`
+   
+-
++- Test
+-- 
+2.8.1.windows.1
+
